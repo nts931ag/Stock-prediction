@@ -1,26 +1,17 @@
-# stock-prediction-project
-# Project Machine Learning - CNM -- HCMUS
-
+Stock Prediction Project
 # Danh sách thành viên
-  18120545 - Vũ Phan Nhật Tài
-  
-  18120653 - Lưu Trường Vũ
-  
-  18120582 - Phạm Thị Anh Thư
+19127576-Phạm Đoàn Tiến
+19127541-Nguyễn Thái Sơn
+19127564-Nguyễn Hữu Thông
+19127546-Trần Hoàng Thái
   
 # Demo
-  Ytb: https://youtu.be/ZvPeZMMChxU
- 
+  Ytb: https://youtu.be/g9wbGxm8YZo
  
 # Install guide
-  Cài đặt libraries: pip install -r ./requirement.txt
-  
-  cd vào folder FilnalProject: cd FinalProject
-  
-  cd vào folder APP: cd APP
-  
-  chạy chương trình: python StockApplication.py
-  
+ Run the following command in terminal:
+ pip install -r ./requirement.txt && cd FinalProject && cd APP && python StockApplication.py
+
 # Các tính năng
   * Người dùng chọn một trong các phương pháp dự đoán
       * XGBoost
@@ -33,5 +24,3 @@
   * Lấy dữ liệu từ Binance, chứng khoán
       * Lấy dữ liệu của 1000 nến lịch sử
       * Dự đoán timeframe kế tiếp
-
-  
