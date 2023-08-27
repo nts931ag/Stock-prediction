@@ -1,10 +1,10 @@
 Stock Prediction Project
 # Danh sách thành viên
-19127576-Phạm Đoàn Tiến
-19127541-Nguyễn Thái Sơn
-19127564-Nguyễn Hữu Thông
-19127546-Trần Hoàng Thái
-  
+19127576-Phạm Đoàn Tiến\
+19127541-Nguyễn Thái Sơn\
+19127564-Nguyễn Hữu Thông\
+19127546-Trần Hoàng Thái\
+
 # Demo
   Ytb: https://youtu.be/g9wbGxm8YZo
  
